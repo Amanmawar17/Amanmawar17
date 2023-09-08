@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aman Mawar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="left">A passionate Full Stack developer from India</h3>
 
 
 - 🔭 I’m currently working on [Starman Projects](https://github.com/Amanmawar17/Starman-projects)
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [frieden.me](frieden.me)
+- 👨‍💻 All of my projects are available at [frieden.me](https://frieden.me)
 
 - 📫 How to reach me **amanmawar17141@gmail.com**
 
