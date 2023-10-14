@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Mawar</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=Amanmawar17&color=green&label=You%20are%20Visitor%20Number&style=flat-square)  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanmawar17&color=green&label=You%20are%20Visitor%20Number&style=flat-square" alt="amanmawar17")  </p>
 
 - 🔭 I’m currently working on [Starman Projects](https://github.com/Amanmawar17/Starman-projects)
 
